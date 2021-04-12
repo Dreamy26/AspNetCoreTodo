@@ -15659,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/Views/Todo/Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/Areas/Identity/Pages/_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
