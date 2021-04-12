@@ -79,3 +79,5 @@
 /Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/ref/AspNetCoreTodo.dll
 /Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/AspNetCoreTodo.pdb
 /Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/AspNetCoreTodo.genruntimeconfig.cache
+/Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/obj/Debug/net5.0/Razor/Views/Todo/Index.cshtml.g.cs
+/Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/bin/Debug/net5.0/mono_crash.11a6748113.0.json

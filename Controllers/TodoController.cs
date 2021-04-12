@@ -9,6 +9,13 @@ namespace AspNetCoreTodo.Controllers
 {
     public class TodoController : Controller
     {
-        // Actions go here 
+        public IActionResult Index()
+        {
+            // get to-do items from AddDatabaseDeveloperPageExceptionFilter
+            // put items into a model 
+
+            // render view using the model
+            return View();
+        }
     }
 }
