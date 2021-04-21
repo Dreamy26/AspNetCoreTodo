@@ -2,13 +2,14 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using AspNetCoreTodo.Models;
+using AspNetCoreTodo.Services;
 
 namespace AspNetCoreTodo.Services
 {
     public class FakeTodoItemService : ITodoItemService
 
     {
-        public Task<TodoItem[]> GetIncompleteItemAsync()
+        public Task<TodoItem[]> GetIncompleteItemsAsync()
         {
             var item1 = new TodoItem
             {

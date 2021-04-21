@@ -1,5 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using AspNetCoreTodo.Models;
+using AspNetCoreTodo.Services;
 
 namespace AspNetCoreTodo.Models
 {
