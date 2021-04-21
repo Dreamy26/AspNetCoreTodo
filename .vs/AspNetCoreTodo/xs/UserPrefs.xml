@@ -4,8 +4,8 @@
     <Files>
       <File FileName="Startup.cs" Line="1" Column="1" />
       <File FileName="Controllers/TodoController.cs" Line="1" Column="1" />
-      <File FileName="Views/Todo/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Views/Todo/Index.cshtml" />
+      <File FileName="Controllers/HomeController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,9 +14,6 @@
             <Node name="AspNetCoreTodo" expanded="True">
               <Node name="Controllers" expanded="True">
                 <Node name="TodoController.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Todo" expanded="True" />
               </Node>
             </Node>
           </Node>
