@@ -22,7 +22,13 @@ a {
   color: #fff;
   background-color: #1b6ec2;
   border-color: #1861ac;
+  
 }
+
+li + li {
+  margin-top: 10px;
+}
+
 
 /* Sticky footer styles
 -------------------------------------------------- */
