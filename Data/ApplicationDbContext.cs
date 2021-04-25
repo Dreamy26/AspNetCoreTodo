@@ -24,5 +24,4 @@ namespace AspNetCoreTodo.Data
         
     }
 
-    
 }
