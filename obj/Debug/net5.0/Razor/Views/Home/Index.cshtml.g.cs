@@ -26,8 +26,15 @@ using AspNetCoreTodo.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "/Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/Views/_ViewImports.cshtml"
+using AspNetCoreTodo.Data.Migrations;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"63823eaa5b73e495aebe7447edc96790f50c299d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cf40354192f8ef1a493f94ade921513cf1f594e2", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

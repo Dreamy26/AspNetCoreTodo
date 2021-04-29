@@ -26,8 +26,15 @@ using AspNetCoreTodo.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "/Users/dreamy/Projects/awPracticeCode/AspNetCoreTodo/AspNetCoreTodo/Views/_ViewImports.cshtml"
+using AspNetCoreTodo.Data.Migrations;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8e36c99e85704d0f2d1766f11d875a37c118a605", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"63823eaa5b73e495aebe7447edc96790f50c299d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cf40354192f8ef1a493f94ade921513cf1f594e2", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
