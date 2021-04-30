@@ -40,7 +40,7 @@ namespace AspNetCoreTodo
             services.AddControllersWithViews();
 
             services.AddMvc();
-            services.AddSingleton<ITodoItemService, FakeTodoItemService>();
+            services.AddScoped<ITodoItemService, TodoItemService>(); // Scoped lifecycle = new instance of the TodoItemService class will be created during each web request. Required for serv class that interacts with a database.
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

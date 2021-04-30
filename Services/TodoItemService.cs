@@ -19,9 +19,9 @@ namespace AspNetCoreTodo.Services
 
                 public async Task<TodoItem[]> GetIncompleteItemsAsync()
                 {
-                    return await _context.Items
-                    .Where(x => x.IsDone == false)
-                    .ToArrayAsync();
+                    return await _context.Items // access all the to-do items in th DbSet
+                        .Where(x => x.IsDone == false) // SELECT * FROM Items WHERE IsDone = 0
+                        .ToArrayAsync();
                 }
     }
 }
