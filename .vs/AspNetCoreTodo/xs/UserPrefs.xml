@@ -10,7 +10,7 @@
       <File FileName="Models/TodoViewModel.cs" />
       <File FileName="wwwroot/css/site.css" />
       <File FileName="Services/ITodoItemService.cs" />
-      <File FileName="Data/ApplicationDbContext.cs" Line="24" Column="2" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="23" Column="6" />
       <File FileName="appsettings.json" />
       <File FileName="app.db" />
       <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" />
