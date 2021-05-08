@@ -14,8 +14,9 @@ namespace AspNetCoreTodo.Data
             : base(options)
         {
         }
-
-        public DbSet<TodoItem> Items { get; set;}
+        
+        public DbSet<TodoItem> Items { get; set;} // DbSet property == table or collection in the database. 
+        // store TodoItem in a table called Items
 
         protected override void OnModelCreating(ModelBuilder builder) => base.OnModelCreating(builder);
 
