@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{FFA797B4-17D4-4EA0-A358-169B760C8DFD}|Default">
   <MonoDevelop.Ide.ItemProperties.AspNetCoreTodo PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="Startup.cs" Line="43" Column="76" />
+      <File FileName="Startup.cs" Line="15" Column="34" />
       <File FileName="Controllers/TodoController.cs" />
       <File FileName="Views/Todo/Index.cshtml" />
       <File FileName="Controllers/HomeController.cs" />
@@ -10,13 +10,12 @@
       <File FileName="Models/TodoViewModel.cs" />
       <File FileName="wwwroot/css/site.css" />
       <File FileName="Services/ITodoItemService.cs" />
-      <File FileName="Services/FakeTodoItemService.cs" />
-      <File FileName="Data/ApplicationDbContext.cs" Line="21" Column="14" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="24" Column="2" />
       <File FileName="appsettings.json" />
       <File FileName="app.db" />
       <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" />
       <File FileName="Views/_ViewImports.cshtml" />
-      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -31,12 +30,12 @@
                 <Node name="Migrations" expanded="True">
                   <Node name="00000000000000_CreateIdentitySchema.cs" expanded="True" />
                 </Node>
+                <Node name="ApplicationDbContext.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
